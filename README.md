@@ -1,8 +1,8 @@
-Entorno de Trabajo en Linux (Parrot)
+# Entorno de Trabajo en Linux (Parrot)
 
-=====================================
+# =====================================
 
-Instalando Bspwm y Sxhkd
+# Instalando Bspwm y Sxhkd
 
-=====================================
+# =====================================
 
