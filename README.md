@@ -1,1 +1,8 @@
-# entorno_trabajo_linux.github.io
+Entorno de Trabajo en Linux (Parrot)
+
+=====================================
+
+Instalando Bspwm y Sxhkd
+
+=====================================
+
